@@ -1,0 +1,38 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/cabins",
+      "destination": "/cabins"
+    },
+    {
+      "source": "/cabins/thankyou",
+      "destination": "/cabins/thankyou"
+    },
+    {
+      "source": "/cabins/:id",
+      "destination": "/cabins/[id]"
+    },
+    {
+      "source": "/about",
+      "destination": "/about"
+    },
+    {
+      "source": "/account",
+      "destination": "/account"
+    },
+    {
+      "source": "/account/reservations",
+      "destination": "/account/reservations"
+    },
+    {
+      "source": "/account/profile",
+      "destination": "/account/profile"
+    },
+    {
+      "source": "/:path*",
+      "destination": "/notfound"
+    }
+  ]
+}
