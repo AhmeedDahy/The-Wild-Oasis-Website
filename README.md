@@ -3,9 +3,9 @@
 <p align="center"><em>Experience Luxury and Nature in Perfect Harmony</em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/AhmeedDahy/The-Wild-Oasis-Website?style=for-the-badge alt="Last Commit" />
+  <img src="https://img.shields.io/github/last-commit/AhmeedDahy/The-Wild-Oasis-Website?style=for-the-badge&color=green" alt="Last Commit" />
   <img src="https://img.shields.io/badge/javascript-97.2%25-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/github/languages/count/AhmeedDahy/The-Wild-Oasis-Website?style=for-the-badge alt="Languages" />
+  <img src="https://img.shields.io/github/languages/count/AhmeedDahy/The-Wild-Oasis-Website?style=for-the-badge&color=blue" alt="Languages" />
 </p>
 
 <p align="center"><em>Built with the tools and technologies:</em></p>
@@ -45,12 +45,11 @@ The Wild Oasis Website is a modern booking platform for luxury cabins in the Ita
 
 ## Features
 
-- **Next.js App Router**: For optimized performance and SEO
-- **Supabase Backend**: Real-time database and authentication
-- **Tailwind CSS**: Utility-first styling framework
-- **Responsive Design**: Works on all device sizes
-- **Jest Testing**: Comprehensive test coverage
-- **Modern UI**: Clean, intuitive interface
+- **🌟 Next.js App Router**: For optimized performance and SEO
+- **⚡ Supabase Backend**: Real-time database and authentication
+- **🎨 Tailwind CSS**: Utility-first styling framework
+- **📱 Responsive Design**: Works on all device sizes
+- **🆕 Modern UI**: Clean, intuitive interface
 
 ---
 
