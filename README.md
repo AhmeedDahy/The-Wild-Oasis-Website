@@ -3,9 +3,9 @@
 <p align="center"><em>Experience Luxury and Nature in Perfect Harmony</em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/AhmeedDahy/The-Wild-Oasis-Website?style=for-the-badge&color=gray" alt="Last Commit" />
+  <img src="https://img.shields.io/github/last-commit/AhmeedDahy/The-Wild-Oasis-Website?style=for-the-badge alt="Last Commit" />
   <img src="https://img.shields.io/badge/javascript-97.2%25-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/github/languages/count/AhmeedDahy/The-Wild-Oasis-Website?style=for-the-badge&color=gray" alt="Languages" />
+  <img src="https://img.shields.io/github/languages/count/AhmeedDahy/The-Wild-Oasis-Website?style=for-the-badge alt="Languages" />
 </p>
 
 <p align="center"><em>Built with the tools and technologies:</em></p>
