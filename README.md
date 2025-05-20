@@ -13,4 +13,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge)
-![date-fns](https://img.shields.io/badge/date--fns-EC4899?logo=calendar&logoColor=white&style=for-the-badge)
+![date-fns](https://img.shields.io/badge/date--fns-EC4899?logo=date-fns&logoColor=white&style=for-the-badge)
